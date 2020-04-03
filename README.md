@@ -3,6 +3,7 @@
 
 
 ## App Description ##
+  * Tip Calculator App, Written in Swift 5, Xcode - 11.4
   * Bill Splitting App along with tax calculation.
   * We can find out the split amount divided among multiple persons along with bill+tax.
   * Clone with the URL to see the app or else download all the files and run in the xcode.
